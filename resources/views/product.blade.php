@@ -25,7 +25,7 @@
           
         }
         h1 {
-            margin-left:195px
+            margin-left:190px
         }
     </style>
 </head>
